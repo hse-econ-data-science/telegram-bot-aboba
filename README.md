@@ -1,1 +1,3 @@
-# telegram-bot-aboba
+# @cryptocurrency_aiogram_bot
+### Выполнили: Ёлкина Ольга, Романко Елизавета, Иванчикова София
+### БЭК202
